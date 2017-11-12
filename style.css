@@ -1,3 +1,4 @@
+
 /* Paste in code from your old files to save time and avoid typos! */
 
 body{
@@ -12,6 +13,9 @@ body{
 	width:50vw;
 	display:flex;
 	flex-wrap:wrap;
+}
+div.image {
+   content:url(https://howlingforjustice.files.wordpress.com/2012/09/blood-drip-23.gif);
 }
 
 .right { 

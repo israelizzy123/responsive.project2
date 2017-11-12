@@ -14,10 +14,9 @@ body{
 	display:flex;
 	flex-wrap:wrap;
 }
-div.image {
-   content:url(https://howlingforjustice.files.wordpress.com/2012/09/blood-drip-23.gif);
+div.image:before {
+   content:url(http://horrorcultfilms.co.uk/wp-content/uploads/2013/03/american-horror-story.jpg/350x650);
 }
-
 .right { 
 	height:100vh;
 	width:50vw;

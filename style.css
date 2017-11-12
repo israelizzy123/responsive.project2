@@ -14,9 +14,7 @@ body{
 	display:flex;
 	flex-wrap:wrap;
 }
-div.image:before {
-   content:url(http://horrorcultfilms.co.uk/wp-content/uploads/2013/03/american-horror-story.jpg/100x50);
-}
+
 .right { 
 	height:100vh;
 	width:50vw;

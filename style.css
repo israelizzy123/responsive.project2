@@ -31,8 +31,8 @@ body{
 	background-color: red;
 }
 
-.darkred{
-	background-color: darkred;
+.darkgrey{
+	background-color: darkgrey;
 }
 
 @media screen and (max-width: 800px){

@@ -1,4 +1,4 @@
-
+3
 /* Paste in code from your old files to save time and avoid typos! */
 
 body{
@@ -15,7 +15,7 @@ body{
 	flex-wrap:wrap;
 }
 div.image:before {
-   content:url(http://horrorcultfilms.co.uk/wp-content/uploads/2013/03/american-horror-story.jpg/50x100);
+   content:url(http://horrorcultfilms.co.uk/wp-content/uploads/2013/03/american-horror-story.jpg/362x562);
 }
 .right { 
 	height:100vh;

@@ -43,7 +43,9 @@ border: 2px solid black
 .darkred{
 	background-color: darkred;
 }
-
+.firebrick{
+	background-color:firebrick;
+}
 @media screen and (max-width: 800px){
 	.left{
 		height:30vh;
